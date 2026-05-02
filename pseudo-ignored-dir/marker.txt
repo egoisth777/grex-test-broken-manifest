@@ -1,0 +1,2 @@
+This file is under .gitignore'd `pseudo-ignored-dir/`.
+`grex doctor` MUST NOT flag it as drift (B5 regression).
